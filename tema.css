@@ -1,0 +1,12 @@
+/* kredit-maliki: Template oleh Maliki Saputra (@malikisaputra) — https://malikisaputra.biz.id. Lisensi MIT + wajib atribusi (lihat LICENSE). */
+/* TEMA — diubah otomatis oleh customizer Maliki Studio */
+:root {
+  --tema-utama: #1e40af;    /* warna brand utama (tombol, tautan, sorotan) */
+  --tema-aksen: #ea580c;    /* warna aksen kedua (badge, grafik, highlight) */
+  --tema-radius: 14px;      /* sudut kartu/tombol */
+  --tema-font: "Space Grotesk", system-ui, sans-serif;
+  --tema-latar: #eef2f7;   /* latar halaman */
+  --tema-panel: #ffffff;   /* kartu/panel/form */
+  --tema-nav: #ffffff;     /* sidebar/header/nav bawah */
+  --tema-teks: #0f1a2e;    /* teks utama */
+}
